@@ -1,0 +1,15 @@
+.imgdiv{
+    
+    border: 1px solid black;
+}
+.cmddiv{
+    
+    width: 50%;
+    margin: auto;
+    display: grid;
+    grid-template-columns: 100px 100px 100px 100px; 
+    gap: 20px;
+    text-align: center;
+    padding: 20px;
+    margin-top: 200px;
+}
